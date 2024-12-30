@@ -156,6 +156,7 @@
     </Bscmake>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\shared_common\header\AppView.hpp" />
     <ClInclude Include="ApplicationView.h" />
     <ClInclude Include="StepTimer.h" />
     <ClInclude Include="Game.h" />

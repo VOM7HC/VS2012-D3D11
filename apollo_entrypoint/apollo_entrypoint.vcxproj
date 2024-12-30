@@ -136,6 +136,7 @@
     </Xml>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\shared_common\header\AppView.hpp" />
     <ClInclude Include="apollo_entrypoint.h" />
     <ClInclude Include="CubeRenderer.h" />
     <ClInclude Include="DirectXHelper.h" />

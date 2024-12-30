@@ -124,6 +124,7 @@
     <Image Include="Assets\SplashScreen.png" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\shared_common\header\AppView.hpp" />
     <ClInclude Include="jupiter_entrypoint.h" />
     <ClInclude Include="CubeRenderer.h" />
     <ClInclude Include="DirectXHelper.h" />

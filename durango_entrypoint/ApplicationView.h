@@ -39,7 +39,7 @@ private:
 
 // ApplicationSource - responsible for creating the Application instance
 // and passing it back to the system
-ref class ApplicationViewSource : IFrameworkViewSource
+ref class ApplicationViewSource sealed : IFrameworkViewSource
 {
 public:
     virtual IFrameworkView^ CreateView();

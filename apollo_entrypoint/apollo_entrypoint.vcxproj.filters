@@ -68,6 +68,9 @@
     <ClInclude Include="apollo_entrypoint.h">
       <Filter>Headers</Filter>
     </ClInclude>
+    <ClInclude Include="..\shared_common\header\AppView.hpp">
+      <Filter>Headers</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Xml Include="WMAppManifest.xml" />
